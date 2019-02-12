@@ -1,0 +1,29 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.54989E+12,4784,myHomePage,200,OK,Users 1-1,text,TRUE,,346540,476,5,5,https://www.hsn.com/shop/fashion/fa,248,0,130
+1.54989E+12,248,myHomePage-0,301,Moved Permanently,Users 1-1,,TRUE,,227,115,5,5,http://hsn.com/Fashion,248,0,130
+1.54989E+12,361,myHomePage-1,301,Moved Permanently,Users 1-1,,TRUE,,247,115,5,5,https://hsn.com/Fashion,361,0,276
+1.54989E+12,801,myHomePage-2,301,Moved Permanently,Users 1-1,,TRUE,,236,119,5,5,https://www.hsn.com/Fashion,801,0,625
+1.54989E+12,3371,myHomePage-3,200,OK,Users 1-1,text,TRUE,,345830,127,5,5,https://www.hsn.com/shop/fashion/fa,519,0,0
+1.54989E+12,5107,myHomePage,200,OK,Users 1-3,text,TRUE,,346540,476,4,4,https://www.hsn.com/shop/fashion/fa,199,0,56
+1.54989E+12,199,myHomePage-0,301,Moved Permanently,Users 1-3,,TRUE,,227,115,4,4,http://hsn.com/Fashion,199,0,56
+1.54989E+12,532,myHomePage-1,301,Moved Permanently,Users 1-3,,TRUE,,247,115,4,4,https://hsn.com/Fashion,532,0,370
+1.54989E+12,608,myHomePage-2,301,Moved Permanently,Users 1-3,,TRUE,,236,119,4,4,https://www.hsn.com/Fashion,608,0,440
+1.54989E+12,3767,myHomePage-3,200,OK,Users 1-3,text,TRUE,,345830,127,4,4,https://www.hsn.com/shop/fashion/fa,672,0,0
+1.54989E+12,5195,myHomePage,200,OK,Users 1-4,text,TRUE,,346552,476,3,3,https://www.hsn.com/shop/fashion/fa,199,0,42
+1.54989E+12,199,myHomePage-0,301,Moved Permanently,Users 1-4,,TRUE,,227,115,3,3,http://hsn.com/Fashion,199,0,42
+1.54989E+12,597,myHomePage-1,301,Moved Permanently,Users 1-4,,TRUE,,247,115,3,3,https://hsn.com/Fashion,597,0,433
+1.54989E+12,677,myHomePage-2,301,Moved Permanently,Users 1-4,,TRUE,,236,119,3,3,https://www.hsn.com/Fashion,677,0,509
+1.54989E+12,3720,myHomePage-3,200,OK,Users 1-4,text,TRUE,,345842,127,3,3,https://www.hsn.com/shop/fashion/fa,509,0,0
+1.54989E+12,5507,myHomePage,200,OK,Users 1-5,text,TRUE,,346540,476,2,2,https://www.hsn.com/shop/fashion/fa,328,0,163
+1.54989E+12,328,myHomePage-0,301,Moved Permanently,Users 1-5,,TRUE,,227,115,2,2,http://hsn.com/Fashion,328,0,163
+1.54989E+12,604,myHomePage-1,301,Moved Permanently,Users 1-5,,TRUE,,247,115,2,2,https://hsn.com/Fashion,604,0,438
+1.54989E+12,696,myHomePage-2,301,Moved Permanently,Users 1-5,,TRUE,,236,119,2,2,https://www.hsn.com/Fashion,696,0,543
+1.54989E+12,3877,myHomePage-3,200,OK,Users 1-5,text,TRUE,,345830,127,2,2,https://www.hsn.com/shop/fashion/fa,866,0,0
+1.54989E+12,6150,myHomePage,200,OK,Users 1-2,text,TRUE,,346540,476,2,2,https://www.hsn.com/shop/fashion/fa,121,0,72
+1.54989E+12,121,myHomePage-0,301,Moved Permanently,Users 1-2,,TRUE,,227,115,2,2,http://hsn.com/Fashion,121,0,72
+1.54989E+12,289,myHomePage-1,301,Moved Permanently,Users 1-2,,TRUE,,247,115,2,2,https://hsn.com/Fashion,289,0,217
+1.54989E+12,617,myHomePage-2,301,Moved Permanently,Users 1-2,,TRUE,,236,119,2,2,https://www.hsn.com/Fashion,617,0,536
+1.54989E+12,5122,myHomePage-3,200,OK,Users 1-2,text,TRUE,,345830,127,2,2,https://www.hsn.com/shop/fashion/fa,1043,0,01549915301856,1607,HTTP Request,200,OK,runningJmeteronCommandLine 1-1,text,true,,389315,364,1,1,https://www.hsn.com/shop/home/ho,131,0,94
+1549915301856,131,HTTP Request-0,301,Moved Permanently,runningJmeteronCommandLine 1-1,,true,,175,120,1,1,http://hsn.com/shop/home/ho,131,0,94
+1549915301990,473,HTTP Request-1,301,Moved Permanently,runningJmeteronCommandLine 1-1,,true,,252,120,1,1,https://hsn.com/shop/home/ho,473,0,454
+1549915302465,998,HTTP Request-2,200,OK,runningJmeteronCommandLine 1-1,text,true,,388888,124,1,1,https://www.hsn.com/shop/home/ho,790,0,157
